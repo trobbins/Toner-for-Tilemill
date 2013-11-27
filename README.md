@@ -3,7 +3,7 @@ Toner for Tilemill
 
 ![Toner for Tilemill screenshot](https://raw.github.com/aaronlidman/Toner-for-Tilemill/master/preview.png)
 
-Toner for Tilemill is a port of [Stamen's](http://stamen.com/) high contrast, black-and-white mapping style, [Toner](https://github.com/Citytracking/toner), for use with [Tilemill](http://mapbox.com/tilemill). The style is ment to reflect the current state of Toner's appearance in the easy to use Tilemill environment. [Check out a map of the output.](http://jsfiddle.net/E5khK/7/embedded/result/)
+Toner for Tilemill is a port of [Stamen's](http://stamen.com/) high contrast, black-and-white mapping style, [Toner](https://github.com/Citytracking/toner), for use with [Tilemill](http://mapbox.com/tilemill). The style is meant to reflect the current state of Toner's appearance in the easy to use Tilemill environment. [Check out a map of the output.](http://jsfiddle.net/E5khK/7/embedded/result/)
 
 It's still a work in progress with some known problems, feel free to file an [issue](http://github.com/aaronlidman/Toner-for-Tilemill/issues/) if you notice something wrong or isn't in sync with the apperance of original Toner.
 
